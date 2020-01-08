@@ -8,7 +8,7 @@ Abfrage eines Temperature-Sensors über eine Libary. Die Anfrage kann dann ganz 
 - DallasTemperature
 
 
-<code>
+```cpp
   
 #include <GetTemperatureEasy.h>
 
@@ -29,4 +29,4 @@ void loop() {
   delay(2000);
 }
 
-</code>  
+```
